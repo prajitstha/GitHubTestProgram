@@ -16,5 +16,9 @@ namespace GitHubTestProgram
         {
             Console.WriteLine("'method A");
         }
+        public void MethodB()
+        {
+            Console.WriteLine("'method B");
+        }
     }
 }
